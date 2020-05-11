@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Navigation Sample</string>
+
+    <string name="fragment_main">Main</string>
+    <string name="fragment_blank">Blank</string>
+    <string name="fragment_second">Second</string>
+
+</resources>
